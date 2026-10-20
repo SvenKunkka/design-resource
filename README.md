@@ -1,3 +1,7 @@
+<!-- SVENKUNKKA-README-NAV:BEGIN -->
+[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+<!-- SVENKUNKKA-README-NAV:END -->
+
 # design-resource
 
 A list of tools & resources for designers.
@@ -322,3 +326,32 @@ Windows 用户体验交互设计规范★（微软的设计指南最为详细，
 Google TV Design Patterns
 Google Glass Guidelines
 Android Wear Guidelines
+
+
+---
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+[timmy3131/design-resource](https://github.com/timmy3131/design-resource) 的分支，整理设计师常用图片、图标、字体、配色、界面规范、灵感、原型工具与书目，原始清单归上游及贡献者。
+
+**使用入口：** 直接按 README 的素材、灵感、移动应用设计、设计工具和书单分类浏览，无需安装或构建。
+
+**范围说明：** 这是历史资源目录，外部服务、价格、下载入口与授权条件可能变化；使用素材前应以其来源页面为准。
+
+<a id="project-overview-en"></a>
+## English project overview
+
+A fork of [timmy3131/design-resource](https://github.com/timmy3131/design-resource), collecting images, icons, fonts, colors, interface guidelines, inspiration, prototyping tools and books for designers. The original list belongs to upstream and contributors.
+
+**Getting started:** Browse the README sections for materials, inspiration, mobile-app design, tools and books; no installation or build is required.
+
+**Scope:** This is a historical resource directory. External services, pricing, download links and license terms can change; consult the original source before using assets.
+
+**本 Fork 的维护者 / Maintainer of this fork:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+**上游项目 / Upstream:** [timmy3131/design-resource](https://github.com/timmy3131/design-resource)。保留原作者署名与原许可证 / Original authorship and license notices are retained.
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->
